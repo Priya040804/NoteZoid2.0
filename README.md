@@ -14,3 +14,8 @@ NoteZoid2.0 is the upgraded version of the NoteZOid app made for the students so
 🔹 **Wellness & Counselling** 💆‍♂️ – Mental health support and fitness updates.  
 🔹 **Feedback & Surveys** 📝 – Gather insights and optimize campus operations. 
 
+## Contributors:
+
+1. [MISHKA](https://github.com/mishka30).
+2. [PRINCE](https://github.com/Prince1520).
+3. [PRIYA](https://github.com/Priya040804).
