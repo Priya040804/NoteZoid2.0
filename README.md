@@ -1,0 +1,1 @@
+NoteZoid2.0 is the upgraded version of the NoteZOid app made for the students so that they can easily find the previous years papers accoording to there need and the updated version will include many features like attedance tracker , personalized timetable ,event management and notification that is happening in the college.
